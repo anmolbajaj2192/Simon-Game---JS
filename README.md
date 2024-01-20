@@ -36,6 +36,3 @@ To play the game, simply open the `index.html` file in a web browser. Press any 
 
 Feel free to contribute to the improvement of the game. You can enhance the UI, add new features, or optimize the code.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
